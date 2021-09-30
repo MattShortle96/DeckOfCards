@@ -1,2 +1,2 @@
 # DeckOfCards
- Shuffling a random deck of 52 cards in C#.
+ Sorting a random deck from an example of 8 playing cards.
